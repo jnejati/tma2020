@@ -1,0 +1,10 @@
+pkg,apk,browser,min_sdk,tar_sdk,max_sdk,year
+org.mozilla.firefox,org.mozilla.firefox-52.0.2-81c77cfe56854fd9634970b73e7518e2.apk,FireFox-52,24,26,,2018
+com.android.chrome,com.android.chrome-53.0.2785.124-c4228613f313195a272f5f293ca6117e.apk,Chrome-53.0,24,26,,2018
+com.baidu.browser.inter,com.baidu.browser.inter-6.4.0.4-c5467d9fce9f41140b501f0d89e692fe@latest.apk,Baidu_6.4.0.4,24,26,,2018
+mobi.mgeek.TunnyBrowser,mobi.mgeek.TunnyBrowser-12.0.2-3398af19bfa9a50f83d466e2ca1613ba.apk,TunnyBrowser_12.0.2,24,26,,2018
+#com.ksmobile.cb,com.ksmobile.cb-5.21.11-89cc1c64b955a013e138d134d103501f.apk,Ksmobile_5.21.11,24,26,,2018
+com.yandex.browser,com.yandex.browser-17.3.2.414-73c8a2e0ca61533cf2905c6b9f616520.apk,Yandex-17.3,24,26,,2018
+com.UCMobile.intl,UCBrowser_V12.10.0.1163_android.apk,UC_browser_12.100,24,26,,2018
+com.opera.browser,com.opera.browser_34.0.2044.98679_free-www.apkhere.com.apk,Opera-34,24,26,,2018
+com.explore.web.browser,com.explore.web.browser_2.6.1_free-www.apkhere.com.apk,Explore_browser_2.6.1,24,26,,2018

@@ -1,0 +1,14 @@
+pkg,apk,browser,min_sdk,tar_sdk,max_sdk,year
+#org.mozilla.firefox,org.mozilla.firefox-40.0.3-310a783f17aff596942143978cafc5dc@aptoide_mobile.apk,FireFox-40,20,21,,2015
+#com.android.chrome,com.android.chrome-47.0.2526.83-35982623b4ab4f8786628df5613a74ca@apkhere.apk,Chrome-47,20,21,,2015
+#com.android.chrome,com.android.chrome-46.0.2490.76-ffda8e051e784b5016cea81f2d2133d7@uptodown.apk,Chrome-46,20,21,,2015
+#com.android.chrome,com.android.chrome-53.0.2785.124-c4228613f313195a272f5f293ca6117e.apk,Chrome-53,20,21,,2015
+#com.opera.browser,com.opera.browser-32.0.1953.96473-9f870ee216bfc15e831b7b262c1699fe@androidapps.apk,Opera-32,20,21,,2015
+#com.mx.browser,com.mx.browser-5.0.7.3105-3f8531f9151a888ae52dcfee150dcd64.apk,Maxtheon_5.0.7,20,21,,2015
+#com.baidu.browser.inter,com.baidu.browser.inter-6.4.0.1-45f239942e4e609dd27c2578c0af8634@apkpure.apk,Baidu_6.3.0.1,20,21,,2015
+#mobi.mgeek.TunnyBrowser,mobi.mgeek.TunnyBrowser-12.0.11-free-www.apkshub.com.apk,TunnyBrowser_12.0.11,20,21,,2015
+#mobi.mgeek.TunnyBrowser,mobi.mgeek.TunnyBrowser-11.5.19-4b468f096e64482bb866b7142034a864.apk,TunnyBrowser_11.5.19,20,21,,2015
+com.ksmobile.cb,com.ksmobile.cb-5.1.98-b9fd5dd737d0de8da963c27fbe44beab@aptoide_mobile.apk,Ksmobile_5.1.98,20,21,,2015
+#com.yandex.browser,com.yandex.browser-15.12.2.6773-4371bdb3a32259bef344a71dec448049@apkhere.apk,Yandex-15.12,20,21,,2015
+#com.UCMobile.intl,com.UCMobile.intl-10.9.5-a3b5bbce0e6fee9251118decfb5a62f0@apkmirror.apk,UC_browser_15.12,20,21,,2015
+#com.explore.web.browser,com.explore.web.browser-2.5.9-e381778784bc45656f4244b2f222b02a.apk,Explorer_browser_2.5.9,20,21,,2015
